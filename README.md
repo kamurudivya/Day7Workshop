@@ -1,2 +1,2 @@
-#Gambler Simulator
+Gambler Simulator
 
