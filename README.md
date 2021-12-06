@@ -1,2 +1,2 @@
-# Day7Workshop
-#Gambler Simulator
+# Day7Workshop #Gambler Simulator
+
